@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yamini Makala</h1>
 <h3 align="center">🚀 AI/ML Enthusiast | 💡 Quantum Tech Explorer | 👩‍💻 Python Developer</h3>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/YaminiMakala/YaminiMakala/main/A_digital_illustration_banner_features_Yamini_Maka.png" width="100%" />
 </p>
+
 
 
 ---
