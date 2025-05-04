@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI/ML Enthusiast | 💡 Quantum Tech Explorer | 👩‍💻 Python Developer</h3>
 
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.png" height="300" />
 </p>
 
 
