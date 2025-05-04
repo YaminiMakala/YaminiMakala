@@ -2,12 +2,13 @@
 <h3 align="center">🚀 AI/ML Enthusiast | 💡 Quantum Tech Explorer | 👩‍💻 Python Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YaminiMakala&label=Profile%20views&color=0e75b6&style=flat" alt="YaminiMakala" />
+  <img src="https://raw.githubusercontent.com/YaminiMakala/YaminiMakala/main/A_digital_illustration_banner_features_Yamini_Maka.png" width="100%" />
 </p>
+
 
 ---
 
-### 💫 About Me
+## 🙋‍♀️ About Me
 
 - 🎓 B.Tech graduate from **Andhra University**  
 - 🌌 Passionate about **space, AI/ML, and quantum computing**
@@ -54,12 +55,14 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaminiMakala&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaminiMakala&theme=radical" width="47%" />
-</p>
+![Yamini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaminiMakala&show_icons=true&theme=radical&border_radius=15&custom_title=My%20GitHub%20Stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaminiMakala&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YaminiMakala&theme=dark&hide_border=false&border_radius=15)
+
 
 ---
 
@@ -76,6 +79,10 @@
 
 ---
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YaminiMakala.YaminiMakala)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YaminiMakala&theme=onedark&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+---
 > 🌟 *“Keep looking up… that’s the secret of life.”* – Snoopy  
 > 💖 Thanks for visiting my profile!
 
